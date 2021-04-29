@@ -8,3 +8,4 @@
 
 [CSS设计指南（第3版）第二章 CSS工作原理](https://github.com/TanXinNiao/blog/issues/3)
 
+[CSS设计指南（第3版）第三章 定位元素](https://github.com/TanXinNiao/blog/issues/4)
