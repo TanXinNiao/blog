@@ -19,3 +19,15 @@
 [CSS设计指南（第3版）第七章 CSS3实战](https://github.com/TanXinNiao/blog/issues/8)
 
 [CSS设计指南（第3版）第八章 响应式设计](https://github.com/TanXinNiao/blog/issues/9)
+
+### CSS权威指南（第4版）读书笔记
+
+[CSS权威指南（第4版）第一章 CSS和文档](https://github.com/TanXinNiao/blog/issues/11)
+
+[CSS权威指南（第4版）第二章 选择符](https://github.com/TanXinNiao/blog/issues/12)
+
+[CSS权威指南（第4版）第三章 特指度和层!](https://github.com/TanXinNiao/blog/issues/13)
+
+[CSS权威指南（第4版）第四章 特指度和层!](https://github.com/TanXinNiao/blog/issues/14)
+
+[CSS权威指南（第4版）第五章 字体](https://github.com/TanXinNiao/blog/issues/15)
